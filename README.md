@@ -1,3 +1,6 @@
+This website has been discontinued. Please check the [WeChat Mini Program](https://github.com/SJTURD/SJTURD_WeChat_MiniProgram "SJTURD WeChat Mini Program").
+---
+
 # SJTURD_Website
 SJTURD Website
 
